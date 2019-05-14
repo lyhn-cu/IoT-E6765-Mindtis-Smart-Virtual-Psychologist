@@ -1,2 +1,5 @@
+*.js linguist-language=python
+*.css linguist-language=python
+*.html linguist-language=python
 * text=auto
 *.sh text eol=lf
